@@ -1,3 +1,3 @@
-### This is a FLASK REST API Development project ###
+### This is a REST API Development using Flask ###
 ### Basic CRUD REST API ###
-### SQLALCHEMY is used for database ###
+### This is built with Flask, Flask-RESTful, Flask-JWT, and Flask-SQLAlchemy ###
